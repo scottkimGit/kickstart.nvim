@@ -3,6 +3,9 @@
 --
 -- See the kickstart.nvim README for more information
 return {
+  {
+    'github/copilot.vim',
+  },
   -- Nvim-tree
   {
     'nvim-tree/nvim-tree.lua',
